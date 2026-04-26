@@ -1,0 +1,13 @@
+# Binaries
+server-rust/target/
+client-go/client
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
